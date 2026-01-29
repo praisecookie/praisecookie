@@ -1,11 +1,11 @@
 <div align="center">
-  <h3>Hi there 👋, I'm a [Technical Executive & Data Scientist](https://shy-type-032798.framer.app/)</h3>
+  <h3>Hi there 👋, I'm a Technical Executive & Data Scientist</h3>
   <p>
     <b>Chief Operating Officer at iLou Foundation</b>
   </p>
   <p>
     I don't just manage operations; I write the code that optimizes them. <br>
-    Bridging the gap between <b>Business Strategy, Product Development (Crystal/Scrum),</b> and <b>Advanced Analytics</b>.
+    Bridging the gap between <b>Business Strategy, Product Development (Crystal/Scrum),</b> and <b>Advanced Analytics. Check out my [Operations Portfolio](https://shy-type-032798.framer.app/)</b>.
   </p>
 </div>
 
