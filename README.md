@@ -9,7 +9,7 @@
 - 🏢 **Founder & Technical COO** at [iLou Foundation](https://www.iloufoundation.com)
 - 📊 **Current Focus:** Scaling operational velocity through automation and predictive modeling.
 - 🌐 **Portfolio:** [Praise Cookie Lou](https://www.iloufoundation.com/founder)
-- ✍️ **Writing:** [Binary, Syntax, and Bloom...🎀](https://praisecookie.substack.com/)
+- ✍️ **Writing:** [Binary, Syntax, and Bloom...🎀](https://cuukie.substack.com/)
 
 ---
 
