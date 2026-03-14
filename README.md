@@ -1,67 +1,60 @@
-<div align="center">
-  <h3>Hi there 👋, I'm Praise Cookie Lou</h3>
-  <h4>Technical Operating Officer & Data Scientist</h4>
-  
-  <p>
-    I don't just manage operations; I write the code that optimizes them. <br>
-    Bridging the gap between <b>Business Strategy, Crystal Agile Frameworks,</b> and <b>Full-Stack Automation.</b>
-  </p>
-  
-  <h3>
-    🌐 <a href="https://shy-type-032798.framer.app/">Visit My Operations Portfolio</a>
-  </h3>
-</div>
+# Praise Cookie Lou 🎀
+### Technical COO | Data Scientist | Operational Architect
+
+> **Bridging the gap between the boardroom and the codebase through Operational Science and Data Intelligence.**
 
 ---
 
-### 🚀 What I'm Building
-- 🔭 **Currently Deploying:** **iLou Foundation** (Operational Science & Agency Infrastructure).
-- 🛡️ **Security Ops:** Building **Data Sentinel**, an automated anomaly detection script for financial auditing.
-- 📊 **Product Data:** Engineering **"User Wrapped"** storytelling engines to drive retention using Pandas & Matplotlib.
-- 🌱 **Research:** Exploring the intersection of **Self-Custody Treasury Management** and **Automated Burn Rate Modeling**.
-
-### 🛠️ Tech Stack & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br>
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <br>
-  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel_Modeling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <br>
-  
-  <img src="https://img.shields.io/badge/Crystal_Agile-000000?style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### 🏛️ Executive Infrastructure
+- 🏢 **Founder & Technical COO** at [iLou Foundation](https://www.iloufoundation.com)
+- 📊 **Current Focus:** Scaling operational velocity through automation and predictive modeling.
+- 🌐 **Portfolio:** [Praise Cookie Lou](https://www.iloufoundation.com/founder)
+- ✍️ **Writing:** [Binary, Syntax, and Bloom...🎀](https://praisecookie.substack.com/)
 
 ---
 
-### 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praisecookie&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisecookie&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+### 🛠️ Tech Stack & Architecture
+
+**Core Languages & Logic** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+**Data Intelligence & Pipeline** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+**Frontend & Frameworks** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Cloud, Ops & Version Control** ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Executive Operations** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### 📫 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/praise-cookie/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:praisecookielou@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://shy-type-032798.framer.app/">
-    <img src="https://img.shields.io/badge/Website-Portfolio-8d6c59?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-</p>
+### 📡 Active Transmission
+- 🌱 **Learning:** Currently diving deep into **Go (Golang)** for high-performance backend architecture.
+- 🏗️ **Building:** `ilou-foundation` & `paepar.com`.
+- 🔍 **Analyzing:** Bitcoin exchange hack history and self-custody solutions for **COINCUBE**.
+- 🌍 **Mission:** Optimizing FinTech infrastructure for cross-border payments in Africa.
+
+---
+
+### 📊 GitHub Analytics
+![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=praisecookie&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praisecookie&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Connect with me
+
+[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@cuukie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ilou-foundation)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praisecookielou@gmail.com)
+   
+*This is where Logic meets Syntax....*
