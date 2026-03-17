@@ -39,7 +39,7 @@
 
 ### 📡 Active Transmission
 - 🌱 **Learning:** Currently diving deep into **Go (Golang)** for high-performance backend architecture.
-- 🏗️ **Building:** `ilou-foundation` & `paepar.com`.
+- 🏗️ **Building:** `iloufoundation.com` & `paepar.com`.
 - 🔍 **Analyzing:** Bitcoin exchange hack history and self-custody solutions for **COINCUBE**.
 - 🌍 **Mission:** Engineering elegant solutions to complex scale problems. Either I'm optimizing global FinTech, building data-driven operational systems, or writing the stories that connect them.
 
@@ -54,7 +54,7 @@
 ### 💬 Connect with me
 
 [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@cuukie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ilou-foundation)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-cookie)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praisecookielou@gmail.com)
    
 *This is where Logic meets Syntax....*
